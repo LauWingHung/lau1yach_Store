@@ -16,5 +16,6 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 public class GateWayApplication {
     public static void main(String[] args) {
         SpringApplication.run(GateWayApplication.class);
+
     }
 }

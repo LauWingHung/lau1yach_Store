@@ -12,6 +12,7 @@
         <module name="lau-item-interface" />
         <module name="lau-item-service" />
         <module name="lau-registry" />
+        <module name="lau-upload" />
       </profile>
     </annotationProcessing>
   </component>
@@ -22,6 +23,7 @@
       <module name="lau-item-interface" options="-parameters" />
       <module name="lau-item-service" options="-parameters" />
       <module name="lau-registry" options="-parameters" />
+      <module name="lau-upload" options="-parameters" />
     </option>
   </component>
 </project>

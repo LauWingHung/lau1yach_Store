@@ -1,4 +1,4 @@
-package com.lau1yach;
+package com.lau1yach.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.cloud.client.SpringCloudApplication;

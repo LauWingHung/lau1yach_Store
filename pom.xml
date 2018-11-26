@@ -9,6 +9,8 @@
     <modules>
         <module>lau-registry</module>
         <module>lau-gateway</module>
+        <module>lau-item</module>
+        <module>lau-common</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

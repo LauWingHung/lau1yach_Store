@@ -1,7 +1,7 @@
 # lau1yach_Store
 
 
-###前端技术：
+### 前端技术：
 
 - 基础的HTML、CSS、JavaScript（基于ES6标准）
 - JQuery
@@ -13,7 +13,7 @@
 - ajax框架：axios
 - 基于Vue的富文本框架：quill-editor
 
-###后端技术：
+### 后端技术：
 
 - SpringMVC、Spring和MyBatis
 - Spring Boot 
@@ -26,7 +26,7 @@
 - MyCat
 - Thymeleaf
 
-###开发环境
+### 开发环境
 - IDE：IntelliJ IDEA
 - JDK：1.8
 - 项目构建：maven

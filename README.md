@@ -17,7 +17,7 @@
 
 - SpringMVC、Spring和MyBatis
 - Spring Boot 
-- Spring Cloud  Finchley.RC1
+- Spring Cloud
 - Redis
 - RabbitMQ
 - Elasticsearch
